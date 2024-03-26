@@ -7,7 +7,7 @@ Welcome to the Polls Django app! This is a beginner-level project aimed at showc
 1. ### Clone the repository
 
     ```bash
-    git clone <https://github.com/your-username/polls-django-app.git>
+    git clone https://github.com/Mozzie455/polls.git
     ```
 
 2. ### Navigate to the project directory
