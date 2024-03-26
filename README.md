@@ -13,7 +13,7 @@ Welcome to the Polls Django app! This is a beginner-level project aimed at showc
 2. ### Navigate to the project directory
 
     ```bash
-    cd polls-django-app
+    cd polls
     ```
 
 3. ### Create a virtual environment (optional but recommended)
